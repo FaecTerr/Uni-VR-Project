@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "d61f9e5c1f21",
+        "mtime": 1678560891070,
+        "size": 12029448,
+        "localPath": "Z:\\User\\Unity\\Uni VR Project\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.7.2.tgz"
+      }
+    }
+  }
+}
